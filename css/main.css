@@ -119,6 +119,7 @@ img {
 .lang-toggle {
   display: flex;
   padding: 3px;
+  margin-right: 25px;
   border-radius: 39px;
   background-color: #dce6ff;
 }
